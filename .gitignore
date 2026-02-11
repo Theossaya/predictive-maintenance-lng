@@ -1,0 +1,22 @@
+# Ignore folders (always end with a slash)
+__pycache__/
+# Ignore the virtual environment folder
+venv/
+.venv/
+env/
+scripts/
+
+# Ignore other heavy folders
+data/
+models/
+
+# Ignore specific system files
+.DS_Store
+Thumbs.db
+
+# Ignore data or log files
+*.csv
+*.log
+
+# Ignore your environment variables/secrets
+.env
