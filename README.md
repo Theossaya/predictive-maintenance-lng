@@ -127,8 +127,8 @@ predictive-maintenance-portfolio/
 ## Installation
 
 ```bash
-git clone https://github.com/Theossaya/predictive-maintenance-portfolio.git
-cd predictive-maintenance-portfolio
+git clone https://github.com/Theossaya/predictive-maintenance-lng.git
+cd predictive-maintenance-lng
 pip install -r requirements.txt
 jupyter notebook predictive_maintenance_portfolio.ipynb
 ```
